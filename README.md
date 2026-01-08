@@ -25,7 +25,7 @@ You don't need to install any complex software like Python or Node.js to run thi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/bahanematik.git](https://github.com/YOUR-USERNAME/bahanematik.git)
+    git clone https://github.com/eediii/Excuse_Machine.git
     ```
     *(Or simply download the `index.html` file)*
 
