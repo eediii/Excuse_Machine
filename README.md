@@ -2,7 +2,7 @@
 
 **Bahanematik** is a fun, "Party Edition" web application that helps you generate creative excuses instantly. It fetches a random "No" reason from an API, automatically translates it into Turkish, and presents it in a colorful, responsive interface suitable for TVs, PCs, and Mobile devices.
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](https://snipboard.io/qc30yY.jpg)
 ## 🌟 Features
 
 * **Random Excuse Generation:** Fetches witty and creative excuses on demand.
